@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4bdb22138c04d1297d2e3bb7a1e2fa9, type: 3}
+  m_Name: Swim
+  m_EditorClassIdentifier: 
+  <Price>k__BackingField: 3
+  <IsBase>k__BackingField: 0
+  <PreviousSkills>k__BackingField:
+  - {fileID: 11400000, guid: c1e13981aac20614cbd026d3ef3eec9e, type: 2}
+  <NextSkills>k__BackingField:
+  - {fileID: 11400000, guid: fa5adf1b74deee04f9c350059db1ef47, type: 2}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 0ce821ead52a9e3428ae419a82908814, type: 3}
